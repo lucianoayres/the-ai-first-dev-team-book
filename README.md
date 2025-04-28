@@ -14,7 +14,7 @@ By **[Luciano Ayres](https://www.linkedin.com/in/lucianoayres/)**
 
 ## About the Book 📖
 
-_The AI-First Team: Building an AI-Driven Software Development Culture_ is a hands-on playbook for leaders and decision-makers—CEOs, CTOs, VPs of Engineering, and team leads—who want to transform their engineering organizations. Drawing on real‐world examples from both tech giants and innovative startups, this book lays out the frameworks, practices, and metrics you need to:
+_The AI-First Dev Team: Building an AI-Driven Software Development Culture_ is a hands-on playbook for leaders and decision-makers—CEOs, CTOs, VPs of Engineering, and team leads—who want to transform their engineering organizations. Drawing on real‐world examples from both tech giants and innovative startups, this book lays out the frameworks, practices, and metrics you need to:
 
 - Understand the disruptive power of AI-enabled coding tools in shaping team culture
 - Build an environment of experimentation, decentralized learning, and continuous improvement
