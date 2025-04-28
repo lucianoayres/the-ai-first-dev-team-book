@@ -33,8 +33,6 @@ If you’re committed to leading your organization—and your people—into a fu
 
 ### How This Book Is Structured
 
-### How This Book Is Structured
-
 [Chapter 1: Shaping Tomorrows Dev Culture with AI](#chapter-1-shaping-tomorrows-dev-culture-with-ai)  
 Introduces the strategic imperative: why AI matters now, and how leaders can frame it as a catalyst for innovation rather than a threat.
 
