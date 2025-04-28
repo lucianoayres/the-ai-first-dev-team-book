@@ -83,7 +83,7 @@ Each chapter concludes with a **summary** and a set of **action items** so you c
 
 ## Chapter 1: Shaping Tomorrow’s Dev Culture with AI
 
-![Chapter 1](./images/chapter_1.png)
+![Chapter 1](https://github.com/lucianoayres/the-ai-first-dev-team-book/blob/main/images/chapter_1.png?raw=true)
 
 The pace of AI-driven innovation in software development is accelerating rapidly. As Satya Nadella observes, this year’s AI breakthroughs have been “truly remarkable” – not as isolated tech marvels, but as solutions spreading globally “one person, one organization, one community at a time.”
 
@@ -112,7 +112,7 @@ AI is already transforming developer productivity. Leaders must act proactively,
 
 ## Chapter 2: Understanding AI-Enabled Developer Tools
 
-![Chapter 2](./images/chapter_2.png)
+![Chapter 2](https://github.com/lucianoayres/the-ai-first-dev-team-book/blob/main/images/chapter_2.png?raw=true)
 
 Modern AI-powered coding tools fall into two broad categories: **smart IDE assistants** and **agentic developer tools**. Smart IDE assistants integrate directly into a programmer’s editor. They suggest code snippets, help write documentation, and even complete entire functions based on comments.
 
@@ -186,7 +186,7 @@ Research suggests these tools can _nearly halve_ development time. The key is to
 
 ## Chapter 3: Building an AI-Innovation Culture
 
-![Chapter 3](./images/chapter_3.png)
+![Chapter 3](https://github.com/lucianoayres/the-ai-first-dev-team-book/blob/main/images/chapter_3.png?raw=true)
 
 Technology alone won’t drive change – **culture** will. Leaders must foster a growth mindset and create an environment where experimenting with AI is encouraged. This starts at the top: articulate a clear vision that “we are an AI-augmented organization.” Reinforce that AI is intended to amplify human skills, not replace people.
 
@@ -221,7 +221,7 @@ Organizational change comes from _“abandoning yesterday”_ and embracing new 
 
 ## Chapter 4: Integrating Agentic Tools
 
-![Chapter 4](./images/chapter_4.png)
+![Chapter 4](https://github.com/lucianoayres/the-ai-first-dev-team-book/blob/main/images/chapter_4.png?raw=true)
 
 After laying the cultural groundwork, it’s time to put agentic tools into action. Agentic AI coding tools can automate multi-step tasks in development workflows. For example, **Cursor AI** is designed to work inside an IDE, where it can refactor code, generate functions from comments, or even browse documentation to help solve errors.
 
@@ -257,7 +257,7 @@ By piloting with mundane tasks (e.g. API scaffolding, code modernization), teams
 
 ## Chapter 5: Empowering People With Skills and Training
 
-![Chapter 5](./images/chapter_5.png)
+![Chapter 5](https://github.com/lucianoayres/the-ai-first-dev-team-book/blob/main/images/chapter_5.png?raw=true)
 
 Technology succeeds only with people who know how to use it. A leader’s job is to **equip the team** with the skills and mindset for AI-augmented development. This means training, hiring, and re-thinking roles.
 
@@ -294,7 +294,7 @@ Empower your people with AI literacy. Provide training on new tools, reward thos
 
 ## Chapter 6: Empowering Teams Through Decentralized Learning
 
-![Chapter 6](./images/chapter_6.png)
+![Chapter 6](https://github.com/lucianoayres/the-ai-first-dev-team-book/blob/main/images/chapter_6.png?raw=true)
 
 As AI-driven coding tools and practices evolve at breakneck speed, development teams need decentralized, high-quality knowledge sources to stay ahead. Rather than relying on top-down training programs alone, organizations empower creative teams by providing open access to curated learning repositories.
 
@@ -340,7 +340,7 @@ Making learning easily accessible empowers developers to grow autonomously, driv
 
 ## Chapter 7: Fueling Innovation with Open-Source AI Tools
 
-![Chapter 7](./images/chapter_7.png)
+![Chapter 7](https://github.com/lucianoayres/the-ai-first-dev-team-book/blob/main/images/chapter_7.png?raw=true)
 
 Open-source AI tools and libraries are the rocket fuel for innovation. By tapping into projects developed by global communities, teams gain access to cutting-edge technology without cost or vendor lock-in.
 
@@ -379,7 +379,7 @@ By incorporating open libraries, teams can prototype and deploy AI solutions imm
 
 ## Chapter 8: Reimagining Workflows
 
-![Chapter 8](./images/chapter_8.png)
+![Chapter 8](https://github.com/lucianoayres/the-ai-first-dev-team-book/blob/main/images/chapter_8.png?raw=true)
 
 AI is not just a personal coding assistant; it can reshape the entire development process. Adopt AI into your existing frameworks (Agile/Scrum, DevOps pipelines, QA processes) rather than treating it as a bolt-on.
 
@@ -420,7 +420,7 @@ Agile rituals can be enhanced with AI (e.g. auto-generated tasks or retrospectiv
 
 ## Chapter 9: Measuring Impact
 
-![Chapter 9](./images/chapter_9.png)
+![Chapter 9](https://github.com/lucianoayres/the-ai-first-dev-team-book/blob/main/images/chapter_9.png?raw=true)
 
 To sustain momentum, leaders need evidence of AI’s impact. Establish metrics that demonstrate how AI tools improve development outcomes. Traditional software metrics (like velocity or defect rate) can be augmented with AI-specific indicators.
 
@@ -461,7 +461,7 @@ Surveys and usage stats can supplement hard data. Sharing these metrics reinforc
 
 ## Chapter 10: Real-World Case Studies
 
-![Chapter 10](./images/chapter_10.png)
+![Chapter 10](https://github.com/lucianoayres/the-ai-first-dev-team-book/blob/main/images/chapter_10.png?raw=true)
 
 Learning from peers can guide your own path. Here are some notable examples of tech companies adopting AI in development:
 
@@ -490,7 +490,7 @@ By studying how others pilot and scale AI tools, your organization can adopt pro
 
 ## Chapter 11: Risks and Best Practices
 
-![Chapter 11](./images/chapter_11.png)
+![Chapter 11](https://github.com/lucianoayres/the-ai-first-dev-team-book/blob/main/images/chapter_11.png?raw=true)
 
 No transformation is without challenges. Leaders must anticipate and manage risks of AI adoption:
 
@@ -517,7 +517,7 @@ Deploying AI tools requires careful governance. Mitigate risks through code revi
 
 ## Chapter 12: Continuous Innovation and the Future
 
-![Chapter 12](./images/chapter_12.png)
+![Chapter 12](https://github.com/lucianoayres/the-ai-first-dev-team-book/blob/main/images/chapter_12.png?raw=true)
 
 Building an AI-driven culture is an ongoing journey, not a one-time project. Leaders should continually adapt as both their teams and the technology evolve.
 
