@@ -43,98 +43,98 @@ Or choose the Epub version:
 
 ## Table of Contents 📝
 
-1. [Introduction](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#introduction)
+[Introduction](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#introduction)
 
-   - The evolution of software teams and methodologies
-   - The paradigm shift brought by AI-enabled tools
-   - Central thesis: AI transforms cultures, not just code
-   - Defining this book’s roadmap and audience
+- The evolution of software teams and methodologies
+- The paradigm shift brought by AI-enabled tools
+- Central thesis: AI transforms cultures, not just code
+- Defining this book’s roadmap and audience
 
-2. [Chapter 1: Shaping Tomorrows Dev Culture with AI](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-1-shaping-tomorrows-dev-culture-with-ai)
+[Chapter 1: Shaping Tomorrow's Dev Culture with AI](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-1-shaping-tomorrows-dev-culture-with-ai)
 
-   - Why leaders must proactively embrace AI today
-   - Insights from Satya Nadella and Peter Drucker on innovation
-   - Early productivity gains with AI assistants
-   - Actionable steps to pilot AI in your organization
+- Why leaders must proactively embrace AI today
+- Insights from Satya Nadella and Peter Drucker on innovation
+- Early productivity gains with AI assistants
+- Actionable steps to pilot AI in your organization
 
-3. [Chapter 2: Understanding AI-Enabled Developer Tools](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-2-understanding-ai-enabled-developer-tools)
+[Chapter 2: Understanding AI-Enabled Developer Tools](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-2-understanding-ai-enabled-developer-tools)
 
-   - Smart IDE assistants vs. agentic platforms
-   - Overview of mainstream tools (Copilot, CodeWhisperer, Tabnine)
-   - Emerging agentic editors (Cursor AI, Windsurf, etc.)
-   - Strategies for low-risk experimentation
+- Smart IDE assistants vs. agentic platforms
+- Overview of mainstream tools (Copilot, CodeWhisperer, Tabnine)
+- Emerging agentic editors (Cursor AI, Windsurf, etc.)
+- Strategies for low-risk experimentation
 
-4. [Chapter 3: Building an AI-Innovation Culture](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-3-building-an-ai-innovation-culture)
+[Chapter 3: Building an AI-Innovation Culture](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-3-building-an-ai-innovation-culture)
 
-   - Fostering a growth mindset and clear AI vision
-   - The role of AI Champions and peer networks
-   - Best practices for communication and incentives
-   - Addressing skepticism and resistance
+- Fostering a growth mindset and clear AI vision
+- The role of AI Champions and peer networks
+- Best practices for communication and incentives
+- Addressing skepticism and resistance
 
-5. [Chapter 4: Integrating Agentic Tools](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-4-integrating-agentic-tools)
+[Chapter 4: Integrating Agentic Tools](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-4-integrating-agentic-tools)
 
-   - Phased approach: use cases, sandbox pilots, oversight
-   - Crafting effective prompts and refining workflows
-   - Case study: legacy code modernization with AI
-   - Scaling agentic practices across teams
+- Phased approach: use cases, sandbox pilots, oversight
+- Crafting effective prompts and refining workflows
+- Case study: legacy code modernization with AI
+- Scaling agentic practices across teams
 
-6. [Chapter 5: Empowering People With Skills and Training](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-5-empowering-people-with-skills-and-training)
+[Chapter 5: Empowering People With Skills and Training](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-5-empowering-people-with-skills-and-training)
 
-   - Hands-on workshops and hackathons for AI tools
-   - Hiring for adaptability and AI-focused roles
-   - Building internal playbooks and mentorship programs
-   - Cross-functional collaboration for shared learning
+- Hands-on workshops and hackathons for AI tools
+- Hiring for adaptability and AI-focused roles
+- Building internal playbooks and mentorship programs
+- Cross-functional collaboration for shared learning
 
-7. [Chapter 6: Empowering Teams Through Decentralized Learning](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-6-empowering-teams-through-decentralized-learning)
+[Chapter 6: Empowering Teams Through Decentralized Learning](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-6-empowering-teams-through-decentralized-learning)
 
-   - Creating a central AI/ML learning portal
-   - Curating and refreshing top courses and tutorials
-   - Encouraging self-driven study and knowledge sharing
-   - Maintaining an up-to-date learning library
+- Creating a central AI/ML learning portal
+- Curating and refreshing top courses and tutorials
+- Encouraging self-driven study and knowledge sharing
+- Maintaining an up-to-date learning library
 
-8. [Chapter 7: Fueling Innovation with Open-Source AI Tools](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-7-fueling-innovation-with-open-source-ai-tools)
+[Chapter 7: Fueling Innovation with Open-Source AI Tools](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-7-fueling-innovation-with-open-source-ai-tools)
 
-   - Benefits of open-source: cost, flexibility, community
-   - Key projects: Ollama, Hugging Face Transformers, CrewAI
-   - Building an internal open-source AI toolbox
-   - Contributing back and sustaining the toolkit
+- Benefits of open-source: cost, flexibility, community
+- Key projects: Ollama, Hugging Face Transformers, CrewAI
+- Building an internal open-source AI toolbox
+- Contributing back and sustaining the toolkit
 
-9. [Chapter 8: Reimagining Workflows](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-8-reimagining-workflows)
+[Chapter 8: Reimagining Workflows](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-8-reimagining-workflows)
 
-   - AI in Agile planning, CI/CD, QA, and retrospectives
-   - Auto-generated user stories, test cases, and docs
-   - AI-assisted code reviews and pipeline integrations
-   - Iterating processes based on real-world feedback
+- AI in Agile planning, CI/CD, QA, and retrospectives
+- Auto-generated user stories, test cases, and docs
+- AI-assisted code reviews and pipeline integrations
+- Iterating processes based on real-world feedback
 
-10. [Chapter 9: Measuring Impact](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-9-measuring-impact)
+[Chapter 9: Measuring Impact](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-9-measuring-impact)
 
     - Defining productivity, quality, adoption, and business KPIs
     - Balancing quantitative metrics with developer feedback
     - Dashboards, reports, and leadership reviews
     - Evolving measures as your AI practice matures
 
-11. [Chapter 10: Real-World Case Studies](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-10-real-world-case-studies)
+[Chapter 10: Real-World Case Studies](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-10-real-world-case-studies)
 
     - Profiles of Microsoft, Google, Amazon, Meta, and startups
     - Pilot strategies, scalability tactics, and outcomes
     - Lessons on matching AI tools to your context
     - Inspiring teams through shared success stories
 
-12. [Chapter 11: Risks and Best Practices](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-11-risks-and-best-practices)
+[Chapter 11: Risks and Best Practices](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-11-risks-and-best-practices)
 
     - Mitigating hallucinations and enforcing code reviews
     - Security, IP, and licensing considerations
     - Preventing overreliance and preserving core skills
     - Crafting clear AI usage policies and ethical guidelines
 
-13. [Chapter 12: Continuous Innovation and the Future](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-12-continuous-innovation-and-the-future)
+[Chapter 12: Continuous Innovation and the Future](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#chapter-12-continuous-innovation-and-the-future)
 
     - Ongoing learning and process iteration
     - Scaling and productizing internal AI successes
     - Leadership advocacy and vision maintenance
     - Preparing for next-generation AI advancements
 
-14. [References](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#references)
+[References](./The_AI-First_Dev_Team_Building_AI-Driven_Software_Development_Culture.md#references)
 
 ---
 
