@@ -1,4 +1,4 @@
-# The Next Dev Team: Building an AI-Driven Software Development Culture
+# The AI-First Dev Team: Building an AI-Driven Software Development Culture
 
 ## By [Luciano Ayres](https://www.linkedin.com/in/lucianoayres/)
 
@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Welcome to **The Next Dev Team: Building an AI-Driven Software Development Culture**. In the past decade, software teams have relied on ever-evolving languages, frameworks, and methodologies to stay competitive. Today, the emergence of AI-enabled coding tools—ranging from in-editor assistants like Copilot to multi-step “agentic” platforms like Cursor AI and Windsurf—represents a paradigm shift.
+Welcome to **The AI-First Dev Team: Building an AI-Driven Software Development Culture**. In the past decade, software teams have relied on ever-evolving languages, frameworks, and methodologies to stay competitive. Today, the emergence of AI-enabled coding tools—ranging from in-editor assistants like Copilot to multi-step “agentic” platforms like Cursor AI and Windsurf—represents a paradigm shift.
 
 Rather than merely augmenting individual workflows, AI has the power to transform entire engineering cultures: accelerating delivery, improving quality, and freeing human creativity for strategic challenges.
 
